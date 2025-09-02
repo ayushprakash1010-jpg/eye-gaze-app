@@ -28,7 +28,7 @@ function App() {
           <div className="h-1 w-24 bg-gradient-to-r from-pink-400 to-purple-400 mx-auto mb-6 rounded-full"></div>
           
           <h2 className="text-2xl md:text-3xl font-bold mb-6 text-pink-200 drop-shadow-lg">
-            By Ayush, Aditya & Rounak
+            By Ayush, Aditya & Ronak
           </h2>
           
           <p className="text-xl md:text-2xl max-w-3xl leading-relaxed text-white/90 font-light mb-8">
